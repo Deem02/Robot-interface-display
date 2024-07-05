@@ -17,7 +17,7 @@ This is a simple PHP script that connects to a MySQL database and retrieves the 
 
 1. Clone the repository or download the `display_direction.php` file.
 2. Update the database connection details in the `$servername`, `$username`, `$password`, and `$database` variables.
-3. Upload the `index.php` file to your web server.
+3. Upload the `display_direction.php` file to your web server.
 
 ## Usage
 
